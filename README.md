@@ -1,4 +1,4 @@
-This repository contains an extract of the dataset used to test and validate SYRROCA framwork. The complete dataset can be found <a href="https://box.roc.cnam.fr/index.php/s/K0YNX8A2hLwYDt7">here</a>.
+This repository contains an extract of the dataset used to test and validate SYRROCA framework. The complete dataset can be found at <a href="https://box.roc.cnam.fr/index.php/s/K0YNX8A2hLwYDt7">here</a>.
 The password is SYRROCA_Data.
  <br>
 Dataset is organized as follows:
